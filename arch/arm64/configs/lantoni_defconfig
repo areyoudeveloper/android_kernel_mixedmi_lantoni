@@ -4061,14 +4061,6 @@ CONFIG_EFI_ARMSTUB=y
 CONFIG_MSM_TZ_LOG=y
 
 #
-# Anbox
-#
-CONFIG_ANBOX=y
-CONFIG_ANBOX_BINDER_IPC=y
-# CONFIG_ANBOX_BINDER_IPC_32BIT is not set
-# CONFIG_BIF is not set
-
-#
 # Firmware Drivers
 #
 
